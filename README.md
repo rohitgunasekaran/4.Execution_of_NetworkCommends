@@ -1,4 +1,7 @@
 # 4.Execution_of_NetworkCommands
+### NAME:G.ROHIT
+### REGISTER NUMBER:212222240083
+
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
 ## Procedure: To do this EXPERIMENT- follows these steps:
@@ -48,12 +51,12 @@ print(result,unans)
 ```
 
 ## Output
-### CILENT
-![318471243-94b257b7-bc90-4764-a87c-ab7fae09e288](https://github.com/Alfredsec/4.Execution_of_NetworkCommends/assets/120621608/5061d4ae-a9cd-48d0-925b-61cf7eac9b66)
+### CILENT:
+ <img src="https://github.com/Alfredsec/4.Execution_of_NetworkCommends/assets/120621608/5061d4ae-a9cd-48d0-925b-61cf7eac9b66.type" width="700" height="500">
 
 
-### SERVER
-![318471321-699ce24a-a2c9-4f94-a7b5-9fd7ecb6f981](https://github.com/Alfredsec/4.Execution_of_NetworkCommends/assets/120621608/36f4b233-8de9-4a9c-8eb9-b6f454813db0)
+### SERVER:
+<img src="https://github.com/Alfredsec/4.Execution_of_NetworkCommends/assets/120621608/36f4b233-8de9-4a9c-8eb9-b6f454813db0.type" width="700" height="500">
 
 
 ### TRACEROUTE COMMAND
