@@ -52,7 +52,7 @@ print(result,unans)
 
 ## Output
 ### CILENT:
- <img src="https://github.com/Alfredsec/4.Execution_of_NetworkCommends/assets/120621608/5061d4ae-a9cd-48d0-925b-61cf7eac9b66.type" width="700" height="500">
+ <img src="https://github.com/Alfredsec/4.Execution_of_NetworkCommends/assets/120621608/5061d4ae-a9cd-48d0-925b-61cf7eac9b66.type" width="" height="300">
 
 
 ### SERVER:
